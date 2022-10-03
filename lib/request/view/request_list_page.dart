@@ -30,7 +30,7 @@ class RequestListPage extends StatelessWidget {
       RequestModel(
         price: 1,
         errand: '팬싸 대리응모',
-        location: "서울시 광진구",
+        location: "서울시 성동구",
         more: 2,
       ),
     ];
